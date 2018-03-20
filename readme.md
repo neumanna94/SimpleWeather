@@ -1,6 +1,4 @@
 # Simple Weather
-
-## Description
 Simple Weather is a single page web application for practice with AJAX/HttpGet requests to servers.
 This site will have a feature where hovering over a map returns a dialog pop-up, relative to mouse, that tells the user the location, date, condition, temperature, and histogram of the currently selected location.
 
