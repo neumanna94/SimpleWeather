@@ -1,7 +1,14 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
 body {
   color: white;
   background-color: #7FABA9;
   height: 100%;
+  margin: 0;
+  padding: 0;
   font-family: "Book Antiqua";
 }
 footer {
@@ -26,4 +33,7 @@ footer {
 }
 .jumbotron h1 {
   text-align: center;
+}
+#map {
+  height: 100%;
 }

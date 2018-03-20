@@ -27,3 +27,7 @@ alexander.daniel.neumann@gmail.com
 * **CSS**
 * **Bootstrap**
 * **jQuery**
+
+##References
+* **Favicon Source:**
+http://www.iconarchive.com/show/colorful-long-shadow-icons-by-graphicloads/Cloud-icon.html
