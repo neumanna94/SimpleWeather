@@ -14,8 +14,6 @@ then,
 $ npm start run
 ```
 ## Known Bugs
-None currently known of. Contact alexander.daniel.neumann@gmail.com if found.
-
 ## Support & Contact Details
 alexander.daniel.neumann@gmail.com
 ## Technologies Used
